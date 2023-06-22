@@ -1,5 +1,7 @@
 {
   "packages": {
-    "module1": {}
+    "module1": {
+      "release-type": "go"
+    }
   }
 }
