@@ -16,6 +16,5 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           monorepo-tags: true
-          bump-minor-pre-major: true
-          release-type: "go-yoshi"
-          package-name: " "
+          release-type: "go"
+          tag-separator: "/"
