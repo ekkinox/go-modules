@@ -2,7 +2,7 @@
   "packages": {
     "module1": {
       "release-type": "go",
-      "component": "module1",
+      "component": "module1"
     }
   }
 }
