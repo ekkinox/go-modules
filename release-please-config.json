@@ -1,7 +1,8 @@
 {
   "packages": {
     "module1": {
-      "release-type": "go"
+      "release-type": "go",
+      "component": "module1",
     }
   }
 }
