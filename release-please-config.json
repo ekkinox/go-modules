@@ -4,6 +4,11 @@
       "release-type": "go",
       "component": "module1",
       "tag-separator": "/"
+    },
+    "module2": {
+      "release-type": "go",
+      "component": "module2",
+      "tag-separator": "/"
     }
   }
 }
