@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ekkinox/go-modules/compare/module1/v1.1.0...module1/v1.2.0) (2023-06-26)
+
+
+### Features
+
+* updated module 1 ([27d380d](https://github.com/ekkinox/go-modules/commit/27d380dafb043abcf8e77b86f9ac7f4329575635))
+
 ## [1.1.0](https://github.com/ekkinox/go-modules/compare/module1-v1.0.0...module1/v1.1.0) (2023-06-22)
 
 
