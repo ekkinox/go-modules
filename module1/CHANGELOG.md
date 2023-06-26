@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/ekkinox/go-modules/compare/module1/v1.3.0...module1/v1.4.0) (2023-06-26)
+
+
+### Features
+
+* bump module 1 ([a411440](https://github.com/ekkinox/go-modules/commit/a4114401f709f5a1ecd826a44c6c340945882590))
+
 ## [1.3.0](https://github.com/ekkinox/go-modules/compare/module1/v1.2.0...module1/v1.3.0) (2023-06-26)
 
 
